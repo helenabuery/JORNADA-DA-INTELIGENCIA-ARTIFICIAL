@@ -18,8 +18,8 @@ Foram adicionados recursos de acessibilidade e interatividade:
 - Controle de tamanho da fonte
 - Modo claro e modo escuro
 - Barra de pesquisa para marcos históricos
-## Tecnologias Utilizadas
 
+## Tecnologias Utilizadas
 - HTML5
 - CSS3
 - JavaScript
